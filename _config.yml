@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Junheng Li"
-  # pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Humanoid Loco-manipulation Control"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
-  # uri              : # URL
+  uri              : # URL
   email            : "junhengl@usc.edu" 
 
   # Academic websites
