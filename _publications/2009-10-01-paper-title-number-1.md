@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Continuous Dynamic Bipedal Jumping via Adaptive-Model Optimization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Authors: Junheng Li, Omar Kolt, and Quan Nguyen'
+paperurl: 'https://arxiv.org/abs/2404.11807'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: Dynamic and continuous jumping remains an open yet challenging problem in bipedal robot control. The choice of dynamic models in trajectory optimization (TO) problems plays a huge role in trajectory accuracy and computation efficiency, which normally cannot be ensured simultaneously. In this letter, we propose a novel adaptive-model optimization approach, a unified framework of Adaptive-model TO and Adaptive-frequency Model Predictive Control (MPC), to effectively realize continuous and robust jumping on HECTOR bipedal robot. The proposed Adaptive-model TO fuses adaptive-fidelity dynamics modeling of bipedal jumping motion for model fidelity necessities in different jumping phases to ensure trajectory accuracy and computation efficiency. In addition, conventional approaches have unsynchronized sampling frequencies in TO and real-time control, causing the framework to have mismatched modeling resolutions. We adapt MPC sampling frequency based on TO trajectory resolution in different phases for effective trajectory tracking. In hardware experiments, we have demonstrated robust and dynamic jumps covering a distance of up to 40 cm (57% of robot height). To verify the repeatability of this experiment, we run 53 jumping experiments and achieve 90% success rate. In continuous jumps, we demonstrate continuous bipedal jumping with terrain height perturbations (up to 5 cm) and discontinuities (up to 20 cm gap).
