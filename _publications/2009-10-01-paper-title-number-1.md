@@ -3,7 +3,7 @@ title: "Continuous Dynamic Bipedal Jumping via Adaptive-Model Optimization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-04-24 
-excerpt: 'Authors: Junheng Li, Omar Kolt, and Quan Nguyen'
+excerpt: "Authors: Junheng Li, Omar Kolt, and Quan Nguyen<br/><img src='/images/continuousJumping.gif'>"
 paperurl: 'https://arxiv.org/abs/2404.11807'
 venue: 'arXiv.org'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
