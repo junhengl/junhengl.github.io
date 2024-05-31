@@ -3,7 +3,7 @@ title: "Force-and-moment-based Model Predictive Control for Achieving Highly Dyn
 collection: publications
 permalink: /publication/2021LocomotionMPC
 date: 2021-11-01
-excerpt: "Authors: Junheng Li and Quan Nguyen<br/><img src='/images/LocomotionMPC.gif'>"
+excerpt: "Authors: Junheng Li and Quan Nguyen<br/><img src='/images/locomotionMPC.gif'>"
 paperurl: 'https://arxiv.org/abs/2104.00065'
 venue: 'IEEE Conference on Decision and Control (CDC) 2021'
 ---
