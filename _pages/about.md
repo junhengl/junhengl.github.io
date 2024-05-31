@@ -15,10 +15,4 @@ Education
 - M.S. in Mechanical Engineering, University of Southern California, 2020 - 2021
 - B.S. in Mechanical Engineering, Loyola Marymount University, 2016 - 2020
 
-Research Highlights
-======
----
-title: "Continuous Dynamic Bipedal Jumping"
-excerpt: "HECTOR bipedal robot jumping over boxes<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+
