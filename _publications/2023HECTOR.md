@@ -2,7 +2,7 @@
 title: "Dynamic Loco-manipulation on HECTOR: Humanoid for Enhanced ConTrol and Open-source Research"
 collection: publications
 permalink: /publication/2023HECTOR
-date: 2023-12-01
+date: 2023-12-31
 excerpt: "Authors: Junheng Li, Junchao Ma, Omar Kolt, Manas Shah, and Quan Nguyen<br/><img src='/images/locomanipulation.gif'>"
 paperurl: 'https://arxiv.org/abs/2312.11868'
 venue: 'arXiv.org'
