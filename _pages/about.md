@@ -27,7 +27,7 @@ Publications and Projects
       Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
     </a>
     <br>
-    Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). 
+    Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., Cheng, X., Shamsah, A., Griffin, R., Liu, C. K., Kheddar, A., Peng, X. B., Zhu, Y., Shi, G., Nguyen, Q., Cheng, G., Gao, H., Zhao, Y. (2025). 
     <br>
     <i>arXiv preprint arXiv:2501.02116.</i>
   </div>
@@ -68,7 +68,7 @@ Publications and Projects
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/forcebot.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
-    <a href="https://arxiv.org/abs/2404.11807" style="font-weight: bold; font-size: 16px;">
+    <a href="https://vtechworks.lib.vt.edu/items/64b151a8-95f5-4420-bf79-879a28a6d2de" style="font-weight: bold; font-size: 16px;">
       A Novel Telelocomotion Framework with CoM Estimation for Scalable Locomotion on Humanoid Robots
     </a>
     <br>
@@ -98,7 +98,7 @@ Publications and Projects
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/continuousJumping.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
-    <a href="https://arxiv.org/abs/2312.11868" style="font-weight: bold; font-size: 16px;">
+    <a href="https://arxiv.org/abs/2404.11807" style="font-weight: bold; font-size: 16px;">
       Continuous Dynamic Bipedal Jumping via Real-time Variable-model Optimization
     </a>
     <br>
@@ -111,14 +111,89 @@ Publications and Projects
 ---
 
 <div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/locomanipulation.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/abs/2312.11868" style="font-weight: bold; font-size: 16px;">
+      Dynamic Loco-Manipulation on Hector: Humanoid for Enhanced Control and Open-Source Research
+    </a>
+    <br>
+    <b>Li, J.</b>, Ma, J., Kolt, O., Shah, M., Nguyen, Q. (2023). 
+    <br>
+    <i>arXiv preprint arXiv:2312.11868.</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/boxpushing.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
-    <a href="https://ieeexplore.ieee.org/document/9842786" style="font-weight: bold; font-size: 16px;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10375151" style="font-weight: bold; font-size: 16px;">
       Kinodynamic pose optimization for humanoid loco-manipulation
     </a>
     <br>
     <b>Li, J.</b>, Nguyen, Q. (2023). 
     <br>
-    <i>2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-8.</i>
+    <i>2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids).</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/boxpushing.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2209.08662" style="font-weight: bold; font-size: 16px;">
+      Multi-Contact MPC for Dynamic Loco-Manipulation on Humanoid Robots
+    </a>
+    <br>
+    <b>Li, J.</b>, Nguyen, Q. (2023). 
+    <br>
+    <i>2023 IEEE American Control Conference (ACC).</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2209.08664" style="font-weight: bold; font-size: 16px;">
+      Dynamic Walking of Bipedal Robots on Uneven Stepping Stones via Adaptive-Frequency MP
+    </a>
+    <br>
+    <b>Li, J.</b>, Nguyen, Q. (2023). 
+    <br>
+    <i>IEEE Control Systems Letters.</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/wheelLeg.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2109.09934" style="font-weight: bold; font-size: 16px;">
+      Balancing Control and Pose Optimization for Wheel-Legged Robots Navigating High Obstacles
+    </a>
+    <br>
+    <b>Li, J.</b>, Nguyen, Q. (2022). 
+    <br>
+    <i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/locomotionMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2104.00065" style="font-weight: bold; font-size: 16px;">
+      Force-and-Moment-Based Model Predictive Control for Achieving Highly Dynamic Locomotion on Bipedal Robots
+    </a>
+    <br>
+    <b>Li, J.</b>, Nguyen, Q. (2021). 
+    <br>
+    <i>2021 60th IEEE Conference on Decision and Control (CDC).</i>
   </div>
 </div>
