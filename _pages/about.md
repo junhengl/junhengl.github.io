@@ -21,7 +21,7 @@ Publications and Projects
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/survey.jpg" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2501.02116" style="font-weight: bold; font-size: 16px;">
       Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
@@ -34,78 +34,78 @@ Publications and Projects
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/gaitnet.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2502.02934" style="font-weight: bold; font-size: 16px;">
       Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains
     </a>
     <br>
-    Li, J., Duan, Z., Ma, J., Nguyen, Q. (2025). 
+    <b>Li, J.</b>, Duan, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
     <i>arXiv preprint arXiv:2502.02934.</i>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/pushrecovery.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2409.14342" style="font-weight: bold; font-size: 16px;">
       Adapting gait frequency for posture-regulating humanoid push-recovery via hierarchical model predictive control
     </a>
     <br>
-    Li, J., Le, Z., Ma, J., Nguyen, Q. (2025). 
+    <b>Li, J.</b>, Le, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
     <i>Accepted by ICRA 2025.</i>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/forcebot.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2404.11807" style="font-weight: bold; font-size: 16px;">
       A Novel Telelocomotion Framework with CoM Estimation for Scalable Locomotion on Humanoid Robots
     </a>
     <br>
-    Chi, A. C., Li, J., Park, J., Kolt, O., Beiter, B., Leonessa, A., Nguyen, Q., Akbari Hamed, K. (2025). 
+    Chi, A. C., <b>Li, J.</b>, Park, J., Kolt, O., Beiter, B., Leonessa, A., Nguyen, Q., Akbari Hamed, K. (2025). 
     <br>
     <i>Accepted by ICRA 2025.</i>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/difftune.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2409.15710" style="font-weight: bold; font-size: 16px;">
       Autotuning bipedal locomotion mpc with grfm-net for efficient sim-to-real transfer
     </a>
     <br>
-    Chen, Q., Li, J., Cheng, S., Hovakimyan, N., Nguyen, Q. (2024). 
+    Chen, Q., <b>Li, J.</b>, Cheng, S., Hovakimyan, N., Nguyen, Q. (2024). 
     <br>
     <i>arXiv preprint arXiv:2409.15710.</i>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/continuousJumping.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/abs/2312.11868" style="font-weight: bold; font-size: 16px;">
       Continuous Dynamic Bipedal Jumping via Real-time Variable-model Optimization
     </a>
     <br>
-    Li, J., Kolt, O., Nguyen, Q. (2024). 
+    <b>Li, J.</b>, Kolt, O., Nguyen, Q. (2024). 
     <br>
     <i>arXiv preprint arXiv:2404.11807.</i>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/boxpushing.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://ieeexplore.ieee.org/document/9842786" style="font-weight: bold; font-size: 16px;">
       Kinodynamic pose optimization for humanoid loco-manipulation
     </a>
     <br>
-    Li, J., Nguyen, Q. (2023). 
+    <b>Li, J.</b>, Nguyen, Q. (2023). 
     <br>
     <i>2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-8.</i>
   </div>
