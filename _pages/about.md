@@ -20,8 +20,8 @@ Education
 Publications and Projects
 ======
 
-| <img src="https://junhengl.github.io/images/adaptiveFreqMP1C.gif" alt="GIF Description" width="175"> | [Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116) <br> Gu, Z., **Li, J.**, Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). <br> *arXiv preprint arXiv:2501.02116.* |
+| <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175"> | [Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116) <br> Gu, Z., **Li, J.**, Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). <br> *arXiv preprint arXiv:2501.02116.* |
 |:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
-| <img src="https://junhengl.github.io/images/adaptiveFreqMP1C.gif" alt="GIF Description" width="175"> | **[Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains](https://arxiv.org/abs/2502.02934)** <br> Li, J., Duan, Z., Ma, J., & Nguyen, Q. (2025). <br> *arXiv preprint arXiv:2502.02934.* |
+| <img src="link-to-your-gif.gif" alt="GIF Description" width="175"> | **[Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains](https://arxiv.org/abs/2502.02934)** <br> Li, J., Duan, Z., Ma, J., & Nguyen, Q. (2025). <br> *arXiv preprint arXiv:2502.02934.* |
 |:------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
