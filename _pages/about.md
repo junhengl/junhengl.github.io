@@ -26,7 +26,9 @@ Publications and Projects
     <a href="https://arxiv.org/abs/2501.02116" style="font-weight: bold; font-size: 16px;">
       Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
     </a>
-    <p>Gu, Z., Li, J., Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). </p>
-    <p><i>arXiv preprint arXiv:2501.02116.</i></p>
+    <br>
+    Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). 
+    <br>
+    <i>arXiv preprint arXiv:2501.02116.</i>
   </div>
 </div>
