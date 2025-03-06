@@ -13,9 +13,13 @@ Hi, my name is Junheng, I am a Ph.D. student in the Department of Aerospace and 
 
 Education 
 ======
-- Ph.D. in Mechanical Engineering, University of Southern California, 2022 - 2025
-- M.S. in Mechanical Engineering, University of Southern California, 2020 - 2021
-- B.S. in Mechanical Engineering, Loyola Marymount University, 2016 - 2020
+<img src="https://junhengl.github.io/images/USC-Logo.png" alt="USC Logo" width="60">    Ph.D. in Mechanical Engineering, University of Southern California, 2022 - 2025 (expected)
+
+<img src="https://junhengl.github.io/images/USC-Logo.png" alt="USC Logo" width="60">    M.S. in Mechanical Engineering, University of Southern California, 2020 - 2021
+
+<img src="https://junhengl.github.io/images/LMU-logo.png" alt="USC Logo" width="60">   B.S. in Mechanical Engineering, Loyola Marymount University, 2016 - 2020
+
+---
 
 Publications and Projects
 ======
@@ -141,7 +145,7 @@ Publications and Projects
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/boxpushing.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/package.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/pdf/2209.08662" style="font-weight: bold; font-size: 16px;">
       Multi-Contact MPC for Dynamic Loco-Manipulation on Humanoid Robots
