@@ -20,3 +20,13 @@ Education
 Publications and Projects
 ======
 
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/adaptiveFreqMPC.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/abs/2501.02116" style="font-weight: bold; font-size: 16px;">
+      Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
+    </a>
+    <p>Gu, Z., Li, J., Shen, W., Yu, W., Xie, Z., McCrory, S., ... & Zhao, Y. (2025). </p>
+    <p><i>arXiv preprint arXiv:2501.02116.</i></p>
+  </div>
+</div>
