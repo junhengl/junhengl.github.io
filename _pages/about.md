@@ -33,6 +33,8 @@ Publications and Projects
   </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/gaitnet.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
@@ -45,6 +47,8 @@ Publications and Projects
     <i>arXiv preprint arXiv:2502.02934.</i>
   </div>
 </div>
+
+---
 
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/pushrecovery.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
@@ -59,6 +63,8 @@ Publications and Projects
   </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/forcebot.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
@@ -71,6 +77,8 @@ Publications and Projects
     <i>Accepted by ICRA 2025.</i>
   </div>
 </div>
+
+---
 
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/difftune.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
@@ -85,6 +93,8 @@ Publications and Projects
   </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/continuousJumping.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
@@ -97,6 +107,8 @@ Publications and Projects
     <i>arXiv preprint arXiv:2404.11807.</i>
   </div>
 </div>
+
+---
 
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/boxpushing.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
