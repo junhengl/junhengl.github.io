@@ -33,7 +33,7 @@ Publications and Projects
     <br>
     Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., Cheng, X., Shamsah, A., Griffin, R., Liu, C. K., Kheddar, A., Peng, X. B., Zhu, Y., Shi, G., Nguyen, Q., Cheng, G., Gao, H., Zhao, Y. (2025). 
     <br>
-    <i>arXiv preprint arXiv:2501.02116.</i>
+    <i>Accepted to IEEE/ASME Transactions on Mechatronics.</i>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Publications and Projects
     <br>
     <b>Li, J.</b>, Duan, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
-    <i>arXiv preprint arXiv:2502.02934.</i>
+    <i>Accepted to Robotics: Science and Systems 2025.</i>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ Publications and Projects
     <br>
     <b>Li, J.</b>, Le, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
-    <i>Accepted by ICRA 2025.</i>
+    <i>Accepted to ICRA 2025.</i>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Publications and Projects
     <br>
     Chi, A. C., <b>Li, J.</b>, Park, J., Kolt, O., Beiter, B., Leonessa, A., Nguyen, Q., Akbari Hamed, K. (2025). 
     <br>
-    <i>Accepted by ICRA 2025.</i>
+    <i>Accepted to ICRA 2025.</i>
   </div>
 </div>
 
