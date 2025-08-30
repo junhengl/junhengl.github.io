@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Junheng, I am a Ph.D. candidate in the Department of Aerospace and Mechanical Engineering at the University of Southern California. I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on dynamic control of humanoid robots in locomotion and manipulation (loco-manipulation) through model-based control strategies such as Model Predictive Control (MPC), Whole-body Control (WBC), and Trajectory Optimization (TO). I have served as the lead on [HECTOR project](https://github.com/DRCL-USC/Hector_Simulation). 
+Hi, my name is Junheng Li, I am an incoming Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/) led by Professor Aaron Ames. I received my PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on dynamic control of humanoid robots in locomotion and manipulation (loco-manipulation) through hierarchical optimization-based control strategies such as Model Predictive Control (MPC), Whole-body Control (WBC), and Trajectory Optimization (TO). 
 
 [My CV](https://junhengl.github.io/files/JunhengCV.pdf)
 
+Professional
+======
+Postdoc, Department of Mechanical and Civil Engineering, California Institute of Technology, 2025 - present
+
 Education 
 ======
-<img src="https://junhengl.github.io/images/USC-Logo.png" alt="USC Logo" width="55">    Ph.D. in Mechanical Engineering, University of Southern California, 2022 - present
+<img src="https://junhengl.github.io/images/USC-Logo.png" alt="USC Logo" width="55">    Ph.D. in Mechanical Engineering, University of Southern California, 2022 - 2025
 
 <img src="https://junhengl.github.io/images/USC-Logo.png" alt="USC Logo" width="55">    M.S. in Mechanical Engineering, University of Southern California, 2020 - 2021
 
@@ -33,7 +37,7 @@ Publications and Projects
     <br>
     Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., Cheng, X., Shamsah, A., Griffin, R., Liu, C. K., Kheddar, A., Peng, X. B., Zhu, Y., Shi, G., Nguyen, Q., Cheng, G., Gao, H., Zhao, Y. (2025). 
     <br>
-    <i>Accepted to IEEE/ASME Transactions on Mechatronics.</i>
+    <i>IEEE/ASME Transactions on Mechatronics.</i>
   </div>
 </div>
 
@@ -48,7 +52,7 @@ Publications and Projects
     <br>
     <b>Li, J.</b>, Duan, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
-    <i>Accepted to Robotics: Science and Systems 2025.</i>
+    <i>Robotics: Science and Systems 2025.</i>
   </div>
 </div>
 
@@ -63,7 +67,7 @@ Publications and Projects
     <br>
     <b>Li, J.</b>, Le, Z., Ma, J., Nguyen, Q. (2025). 
     <br>
-    <i>Accepted to ICRA 2025.</i>
+    <i>ICRA 2025.</i>
   </div>
 </div>
 
@@ -78,7 +82,7 @@ Publications and Projects
     <br>
     Chi, A. C., <b>Li, J.</b>, Park, J., Kolt, O., Beiter, B., Leonessa, A., Nguyen, Q., Akbari Hamed, K. (2025). 
     <br>
-    <i>Accepted to ICRA 2025.</i>
+    <i>ICRA 2025.</i>
   </div>
 </div>
 
@@ -93,7 +97,7 @@ Publications and Projects
     <br>
     Chen, Q., <b>Li, J.</b>, Cheng, S., Hovakimyan, N., Nguyen, Q. (2024). 
     <br>
-    <i>arXiv preprint arXiv:2409.15710.</i>
+    <i>IROS 2025.</i>
   </div>
 </div>
 
