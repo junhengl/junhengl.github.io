@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Junheng Li, I am an incoming Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/) led by Professor Aaron Ames. I received my PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on dynamic control of humanoid robots in locomotion and manipulation (loco-manipulation) through hierarchical optimization-based control strategies such as Model Predictive Control (MPC), Whole-body Control (WBC), and Trajectory Optimization (TO). 
+Hi, my name is Junheng Li, I am a Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/), supervised by Professor Aaron Ames. I received PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on dynamic control of humanoid robots in locomotion and manipulation (loco-manipulation) through hierarchical optimization-based control strategies such as Model Predictive Control (MPC), Whole-body Control (WBC), and Trajectory Optimization (TO). 
 
 [My CV](https://junhengl.github.io/files/JunhengCV.pdf)
 
 Professional
 ======
-Postdoc, Department of Mechanical and Civil Engineering, California Institute of Technology, 2025 - present
+<img src="https://junhengl.github.io/images/Caltech-logo.png" alt=" Caltech Logo" width="55">    Postdoc, Dept of Mechanical and Civil Engineering, Caltech, 2025 - present
 
 Education 
 ======
@@ -27,6 +27,21 @@ Education
 
 Publications and Projects
 ======
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/diffcotune.png" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2505.24068" style="font-weight: bold; font-size: 16px;">
+      DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control
+    </a>
+    <br>
+    Krishna, L., Cheng, S., <b>Li, J.</b>, Hovakimyan, N., Nguyen, Q. (2025). 
+    <br>
+    <i>RA-L 2025.</i>
+  </div>
+</div>
+
+---
 
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/survey.jpg" alt="GIF Description" width="175" style="margin-right: 20px;">
