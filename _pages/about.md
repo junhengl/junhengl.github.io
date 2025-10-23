@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Junheng Li, I am a Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/), supervised by Professor Aaron Ames. I received PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on dynamic control of humanoid robots in locomotion and manipulation (loco-manipulation) through hierarchical optimization-based control strategies such as Model Predictive Control (MPC), Whole-body Control (WBC), and Trajectory Optimization (TO). 
+Hi, my name is Junheng Li, I am a Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/), supervised by Professor Aaron Ames. I received PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on the intersection of hierarchical optimization, learning-based control, and mechatronics of humanoid robots to achieve dynamic locomotion and manipulation (loco-manipulation) behaviors. 
 
 [My CV](https://junhengl.github.io/files/JunhengCV.pdf)
 
