@@ -29,6 +29,23 @@ Publications and Projects
 ======
 
 <div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/planc.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2601.06286" style="font-weight: bold; font-size: 16px;">
+      Walk the PLANC: Physics-Guided RL for Agile Humanoid LocomotioN on Constrained Footholds
+    </a>
+    <br>
+    Dai, M., Compton, W. D., <b>Li, J.</b>, Yang, L., Ames, A. D. (2026). 
+    <br>
+    <a href="https://caltech-amber.github.io/planc/" style=" font-size: 12px;">
+      Project website
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/diffcotune.png" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/pdf/2505.24068" style="font-weight: bold; font-size: 16px;">
