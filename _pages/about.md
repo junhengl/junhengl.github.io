@@ -29,6 +29,23 @@ Publications and Projects
 ======
 
 <div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/mirror.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2603.23995" style="font-weight: bold; font-size: 16px;">
+      MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics
+    </a>
+    <br>
+    <b>Li, J.</b>, Yang, L., Ames, A. D. (2026). 
+    <br>
+    <a href="https://caltech-amber.github.io/mirror/" style=" font-size: 12px;">
+      Project website
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/planc.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/pdf/2601.06286" style="font-weight: bold; font-size: 16px;">
