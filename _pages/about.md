@@ -31,6 +31,21 @@ Publications and Projects
 <div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/mirror.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
+    <a href="https://arxiv.org/pdf/2605.03290" style="font-weight: bold; font-size: 16px;">
+      On Surprising Effects of Risk-Aware Domain Randomization for Contact-Rich Sampling-based Predictive Control
+    </a>
+    <br>
+    Esteban, S., <b>Li, J.</b>, Kurtz, V., Ames, A. D. (2026). 
+    <br>
+    <i>IEEE ICRA Workshop CR2 (oral), 2026.</i>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/mirror.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
     <a href="https://arxiv.org/pdf/2603.23995" style="font-weight: bold; font-size: 16px;">
       MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics
     </a>
@@ -71,7 +86,7 @@ Publications and Projects
     <br>
     Krishna, L., Cheng, S., <b>Li, J.</b>, Hovakimyan, N., Nguyen, Q. (2025). 
     <br>
-    <i>RA-L 2025.</i>
+    <i>IEEE RA-L, 2025.</i>
   </div>
 </div>
 
@@ -86,7 +101,7 @@ Publications and Projects
     <br>
     Gu, Z., <b>Li, J.</b>, Shen, W., Yu, W., Xie, Z., McCrory, S., Cheng, X., Shamsah, A., Griffin, R., Liu, C. K., Kheddar, A., Peng, X. B., Zhu, Y., Shi, G., Nguyen, Q., Cheng, G., Gao, H., Zhao, Y. (2025). 
     <br>
-    <i>IEEE/ASME Transactions on Mechatronics.</i>
+    <i>IEEE/ASME Transactions on Mechatronics, 2026.</i>
   </div>
 </div>
 
@@ -254,3 +269,9 @@ Publications and Projects
     <i>2021 60th IEEE Conference on Decision and Control (CDC).</i>
   </div>
 </div>
+
+Service
+======
+- Organizing Committee: RSS 2025
+- Journal Reviewer (selected): IEEE/CAA Journal of Automatica Sinica (IF: 19.2), International Journal of Robotics Research (IF: 9.3),  IEEE Transactions on Automation Science and Engineering (IF: 9.4), IEEE/ASME Transactions on Mechatronics (IF: 8.9), Journal of Field Robotics (IF: 7.2), IEEE Robotics and Automation Letters (IF: 6.3), Autonomous Robotics, IEEE Control System Letters, ...
+- Conference Reviewer: ICRA, IROS, RSS, Humanoids, ACC, CDC, ...
