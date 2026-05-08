@@ -29,7 +29,7 @@ Publications and Projects
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="https://junhengl.github.io/images/mirror.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <img src="https://junhengl.github.io/images/pushT.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/pdf/2605.03290" style="font-weight: bold; font-size: 16px;">
       On Surprising Effects of Risk-Aware Domain Randomization for Contact-Rich Sampling-based Predictive Control
