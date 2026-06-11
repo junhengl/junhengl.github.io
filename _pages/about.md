@@ -29,6 +29,40 @@ Publications and Projects
 ======
 
 <div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/mpcrl.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2606.05687" style="font-weight: bold; font-size: 16px;">
+      Accelerating and Scaling MPC-Guided Reinforcement Learning for Humanoid Locomotion and Manipulation
+    </a>
+    <br>
+     <b>Li, J.*</b>, Wu, L.*,  Esteban, S. A., Yang, L., Drgona, J., Ames, A. D. (2026). 
+    <br>
+    <a href="https://caltech-amber.github.io/mpc-guided-rl/" style=" font-size: 12px;">
+      Project website
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://junhengl.github.io/images/handoff.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
+  <div>
+    <a href="https://arxiv.org/pdf/2606.06493" style="font-weight: bold; font-size: 16px;">
+      HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers
+    </a>
+    <br>
+    Yang, L., <b>Li, J.</b>, Poddar, N., Hou, Y., Huh, G., Griffin, R., Gkioxari, G., Ames, A. D. (2026). 
+    <br>
+    <a href="https://lzyang2000.github.io/HANDOFF/" style=" font-size: 12px;">
+      Project website
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
   <img src="https://junhengl.github.io/images/pushT.gif" alt="GIF Description" width="175" style="margin-right: 20px;">
   <div>
     <a href="https://arxiv.org/pdf/2605.03290" style="font-weight: bold; font-size: 16px;">
