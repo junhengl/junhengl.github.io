@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Junheng Li, I am a Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/), supervised by Professor Aaron Ames. I received PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on the intersection of hierarchical optimization, learning-based control, and mechatronics of humanoid robots to achieve dynamic locomotion and manipulation (loco-manipulation) behaviors. 
+Hi, my name is Junheng Li. I am currently an Applied Scientist at Amazon SAF Lab, under Amazon Robotics Industrial Research Group (IRG). I was a Postdoctoral Research Associate at Caltech [AMBER Lab](http://www.bipedalrobotics.com/), supervised by Professor Aaron Ames. I received PhD in Mechanical Engineering from the University of Southern California in 2025, where I work with Professor [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/). My research focuses on the intersection of hierarchical optimization, learning-based control, and mechatronics of humanoid robots to achieve dynamic locomotion and manipulation (loco-manipulation) behaviors. 
 
 [My CV](https://junhengl.github.io/files/JunhengCV.pdf)
 
 Professional
 ======
-<img src="https://junhengl.github.io/images/Caltech-logo.png" alt=" Caltech Logo" width="55">    Postdoc, Dept of Mechanical and Civil Engineering, Caltech, 2025 - present
+<img src="https://junhengl.github.io/images/Amazon_Robotics_logo.svg" alt=" AR Logo" width="55">    Applied Scientist, Amazon Robotics, 2026/08 - present (Pasadena, CA)
+
+<img src="https://junhengl.github.io/images/Caltech-logo.png" alt=" Caltech Logo" width="55">    Postdoc, Dept of Mechanical and Civil Engineering, Caltech, 2025/09 - 2026/07 (Pasadena, CA)
 
 Education 
 ======
