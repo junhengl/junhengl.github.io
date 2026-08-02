@@ -13,7 +13,7 @@ Hi, my name is Junheng Li. I am currently an Applied Scientist at Amazon SAF Lab
 
 Professional
 ======
-<img src="https://junhengl.github.io/images/Amazon_Robotics_logo.svg" alt=" AR Logo" width="55">    Applied Scientist, Amazon Robotics, 2026/08 - present (Pasadena, CA)
+ Applied Scientist, Amazon Robotics, 2026/08 - present (Pasadena, CA)
 
 <img src="https://junhengl.github.io/images/Caltech-logo.png" alt=" Caltech Logo" width="55">    Postdoc, Dept of Mechanical and Civil Engineering, Caltech, 2025/09 - 2026/07 (Pasadena, CA)
 
